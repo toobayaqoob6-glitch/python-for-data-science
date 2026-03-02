@@ -1,0 +1,19 @@
+# Python Operators - Beginner Level
+
+This repository contains beginner-friendly Python examples of **operators**.  
+
+## Contents
+
+- **Arithmetic Operators**: +, -, *, /, %  
+- **Comparison Operators**: ==, !=, >, <, >=, <=  
+- **Logical Operators**: and, or, not  
+
+## How to Run
+
+1. Open `operators.py` in any Python IDE (like VS Code or PyCharm).  
+2. Run the file.  
+3. Observe the output for different operators.  
+
+## Purpose
+
+This is part of my Python learning journey for **Data Science beginners**.
