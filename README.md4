@@ -1,0 +1,25 @@
+# Functions in Python
+
+This file contains a simple Python program that demonstrates how to use functions.
+
+## Program Description
+
+The program is a **Simple Calculator** built using Python functions.
+It performs basic mathematical operations such as:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+
+## Concepts Used
+
+* Python Functions
+* Parameters and Arguments
+* Return Statement
+* User Input
+* Arithmetic Operators
+
+## Purpose
+
+This program is created for learning and practicing **Python functions as a beginner in Python for Data Science**.
